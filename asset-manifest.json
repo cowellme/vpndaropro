@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vpndaropro/static/css/main.b6950174.css",
-    "main.js": "/vpndaropro/static/js/main.ed21a2f1.js",
+    "main.js": "/vpndaropro/static/js/main.d8f6a5c2.js",
     "static/media/logo.svg": "/vpndaropro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vpndaropro/index.html",
     "main.b6950174.css.map": "/vpndaropro/static/css/main.b6950174.css.map",
-    "main.ed21a2f1.js.map": "/vpndaropro/static/js/main.ed21a2f1.js.map"
+    "main.d8f6a5c2.js.map": "/vpndaropro/static/js/main.d8f6a5c2.js.map"
   },
   "entrypoints": [
     "static/css/main.b6950174.css",
-    "static/js/main.ed21a2f1.js"
+    "static/js/main.d8f6a5c2.js"
   ]
 }
